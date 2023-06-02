@@ -1,0 +1,14 @@
+.label {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    color: #769656;
+  }
+  .input {
+    width: 165px;
+    background-color: #272522;
+    border: 1px solid #769656;
+    border-radius: 5px;
+    color: #769656;
+  }

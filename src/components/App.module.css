@@ -1,0 +1,33 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #272522;
+    border: 1px solid #769656;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .title {
+    color: #769656;
+    text-align: center;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.12;
+  }
+  .subtitle {
+    color: #769656;
+    text-align: center;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.12;
+  }
+  .section {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }

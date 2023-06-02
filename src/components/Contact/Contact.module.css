@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+  }
+  .contact_value {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    color: #769656;
+  }
+  .button {
+    background-color: #769656;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: #312e2b;
+  }
